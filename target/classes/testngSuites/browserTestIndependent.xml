@@ -1,0 +1,11 @@
+<suite name="Web Tests">
+
+    <test name = "elpais tests">
+
+        <classes>
+            <class name ="tests.BrowserIndependentTests" />
+        </classes>
+
+    </test>
+
+</suite>
